@@ -1,6 +1,6 @@
 ---
 title: "日语小技巧"
-date: 2022-10-15T18:26:29+08:00
+date: 2023-10-15T18:26:29+08:00
 featured: true
 draft: false
 tags:
